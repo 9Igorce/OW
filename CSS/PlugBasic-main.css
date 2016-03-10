@@ -2,7 +2,7 @@
     width: 53px;
 	height: 54px;
 	top: 58px;
-	left: 0px;
+	left: 54px;
 	position: absolute;
 	background-color: #282c35;
 	border-right: 1px solid #0a0a0a;
@@ -17,8 +17,8 @@
     position: absolute;
     width: 325px;
     height: calc(100% - 114px);
-    left: 0px;
-    top: 54px;
+    left: 5px;
+    top: 108px;
     overflow-y: hidden;
     background: #222;
     background: -moz-linear-gradient(top,  rgba(26,26,26,1) 0%, rgba(68,68,68,1) 100%);
