@@ -1,8 +1,8 @@
 .for {
     width: 53px;
 	height: 54px;
-	top: 58px;
-	left: 5px;
+	top: 54px;
+	left: 0px;
 	position: absolute;
 	background-color: #282c35;
 	border-right: 1px solid #0a0a0a;
@@ -15,9 +15,9 @@
 .for_content {
     display: none;
     position: absolute;
-    width: 325px;
+    width: 330px;
     height: calc(100% - 114px);
-    left: 5px;
+    left: 0px;
     top: 108px;
     overflow-y: hidden;
     background: #222;
