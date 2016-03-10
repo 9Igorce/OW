@@ -177,6 +177,41 @@
     font-weight: 700;
 }
 
+.pop-menu.vote .bar .icon { top: 9px; left: 9px; }
+.pop-menu.vote .menu ul li .icon { top: 7px; left: 12px; }
+
+.popout .pop-menu.vote .bar{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:48px;
+	background:#323742;
+}
+.popout .pop-menu.vote{
+	position:absolute;
+	z-index:500;
+	width:205px;
+	height:48px;
+	background:#111317;
+	color:#eee;
+}
+.popout .pop-menu.vote .bar .bar-divider{
+	top:0;
+	left:47px;
+	width:1px;
+	height:48px;
+	background:#111317;
+} 
+.popout .bar-divider { 
+	position: relative; 
+	top: 13px; 
+	left: 0; 
+	width: 1px; 
+	height: 28px;
+	background: #323742;
+}
+
 /* ScrollBar */
 
 ::-webkit-scrollbar { width: 9px !important; background: rgba(0, 0, 0, 0.72) !important; }
